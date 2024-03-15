@@ -1,0 +1,62 @@
+body{
+    background-color: lavender;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.t1{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.t2{
+    color: darkgray;
+}
+.int{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.i1{
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 20px grey;
+}
+.i2{
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 20px grey;
+}
+.i3{
+    
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 20px grey;
+}
+.i4{
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 20px grey;
+}
+.img{
+display: flow-root;
+justify-content:space-evenly;
+border-top-left-radius: 20%;
+}
+h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

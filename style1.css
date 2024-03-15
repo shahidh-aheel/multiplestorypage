@@ -1,0 +1,25 @@
+body{
+    background-color: lavender;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.t1{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.t2{
+    color: darkgray;
+}
+.int{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img{
+display: flow-root;
+justify-content:space-evenly;
+border-top-left-radius: 20%;
+}
+h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
